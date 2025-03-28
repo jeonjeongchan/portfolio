@@ -20,7 +20,7 @@ const ProjectItem = ({
     <div className="flex flex-col md:flex-row gap-2 md:gap-0">
       <div className="flex flex-col gap-2">
         <div className="flex md:flex-col items-center md:items-start mr-4 gap-6">
-          {imgSrc && (
+          {/* {imgSrc && (
             <Image
               src={imgSrc}
               width="200"
@@ -28,7 +28,7 @@ const ProjectItem = ({
               alt={name}
               className="object-cover rounded-lg border-[1px] border-GRAY_LIGHT dark:border-white border-solid w-24 h-24"
             />
-          )}
+          )} */}
           <div className="flex flex-col gap-2">
             <div className="w-48">
               <h3>{name}</h3>

@@ -8,7 +8,7 @@ const WorkExperienceItem = ({ name, position, period, markdown, imgSrc }: WorkEx
   return (
     <div className="flex flex-col md:flex-row gap-6 md:gap-0">
       <div className="flex md:flex-col items-center md:items-start mr-4 gap-6">
-        {imgSrc && (
+        {/* {imgSrc && (
           <Image
             src={imgSrc}
             width="200"
@@ -16,7 +16,7 @@ const WorkExperienceItem = ({ name, position, period, markdown, imgSrc }: WorkEx
             alt={name}
             className="object-cover rounded-lg border-[1px] border-GRAY_LIGHT border-solid w-24 h-24"
           />
-        )}
+        )} */}
         <div className="w-48">
           <h3>{name}</h3>
           <div className="flex flex-col">
