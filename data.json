@@ -47,16 +47,37 @@
       "isTeam": true,
       "period": ["2023. 04", "2023. 11"],
       "stack": ["JAVA", "JavaScript", "ORACLE", "MS-SQL", "Apache", "tomee", "window server", "VMware" ]
+    },
+    {
+      "id": 2,
+      "name": "사내 업무 기반 토이 프로젝트",
+      "period": ["2024. 12", "2025.03"],
+      "description": "실무에서 개발했던 사내 시스템 기능을 토이 프로젝트로 재구현\n사용했던 기술 스택과 업무 로직을 스스로 설계 및 구현",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": false,
+      "stack": ["ASP.NET Core", "JavaScript", "MS-SQL" ]
+    },
+    {
+      "id": 3,
+      "name": "로스트아크 검색기",
+      "period": ["2025.05", "2025.08"],
+      "description": "로스트아크 게임을 이용하면서 필요한 정보들을 바로 검색하기 위한 웹사이트",
+      "webUrl": "",
+      "repoUrl": "",
+      "isTeam": false,
+      "stack": ["JAVA", "JavaScript", "MYSQL"]
     }
   ],
 
   "activity": [
     {
       "id": 0,
-      "name": "문서관리시스템",
-      "period": ["2025 ~ ING"],
-      "description": "문서 관리 시스템 개발 (DMS)"
+      "name": "",
+      "period": [],
+      "description": ""
     }
+
   ],
 
   "education": [
@@ -77,12 +98,6 @@
   "certificate": [
     {
       "id": 0,
-      "name": "1종보통운전면허",
-      "date": "2013. 01",
-      "organizer": ""
-    },
-    {
-      "id": 1,
       "name": "정보처리산업기사",
       "date": "2020. 12",
       "organizer": ""

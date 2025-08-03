@@ -9,13 +9,9 @@
 개발자로서 다양한 기술을 접하며 시야를 넓히는 것을 즐깁니다.  
 
 - **언어:** C#, JAVA, JavaScript  
-- **서버 환경:** VMware, Windows Server, Apache, IIS, Tomee, Tomcat  
+- **서버 환경:** VMware, Windows Server, Apache, IIS, Tomee, Tomcat, Docker
 - **데이터베이스:** Oracle, MySQL, MSSQL  
 - **IDE:** IntelliJ, VSCode, STS  
 
-업무 중뿐만 아니라, 업무 시간 이후에도 팀원들과 함께 **‘클린 코드’, ‘AWS 관련 서적’** 등을 활용한 **스터디**를 진행하며 지식을 쌓았습니다.  
-
-또한, **VMware를 대체할 방법을 고민**하던 중, **Docker를 활용한 DB 서버 구축** 방법을 연구하며, 배운 기술을 실무에 적용하는 방법을 끊임없이 탐구했습니다.  
-
-이처럼 저는 **새로운 기술을 배우고, 적용하며 성장하는 과정**을 즐깁니다.  
+저는 **새로운 기술을 배우고, 적용하며 성장하는 과정**을 즐깁니다.  
 앞으로도 지속적인 학습과 도전을 통해 **더 나은 개발자**로 성장해 나가겠습니다.  
