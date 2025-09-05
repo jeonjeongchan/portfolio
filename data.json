@@ -56,7 +56,7 @@
       "webUrl": "",
       "repoUrl": "",
       "isTeam": false,
-      "stack": ["ASP.NET Core", "JavaScript", "MS-SQL" ]
+      "stack": ["ASP.NET Core", "JavaScript", "ORACLE" ]
     },
     {
       "id": 3,
